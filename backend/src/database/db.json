@@ -1,0 +1,22 @@
+{
+  "recipes": [
+    {
+      "id": "3",
+      "title": "Chocolate Brownies",
+      "ingredients": "Butter, Sugar, Cocoa powder, Flour, Eggs, Vanilla extract",
+      "steps": "1. Melt butter and mix with sugar. 2. Add eggs and vanilla. 3. Stir in cocoa and flour. 4. Bake in a preheated oven at 350°F for 20-25 minutes. 5. Cool and cut into squares."
+    },
+    {
+      "id": "1725271629534",
+      "title": "Chocolate Cake",
+      "ingredients": "Flour, Sugar, Cocoa powder, Eggs",
+      "steps": "Mix ingredients, Bake for 50 minutes"
+    },
+    {
+      "id": "1725292094502",
+      "title": "בולונז",
+      "ingredients": "בשר טחון, רוטב עכבניות, פרמזן",
+      "steps": "לטגן את הבשר "
+    }
+  ]
+}
